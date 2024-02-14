@@ -20,10 +20,12 @@ npm i
 npx prisma migrate dev
 
 # Povoar as tabelas Procedimentos, Salas e Hospitais
-npx prisma test:env
+npm run test:env
 
 # Iniciar o servidor back-End ( A porta que está sendo utilizada é a 3443)
 npm run start:dev
+
+cd ..
 
 # Entrar na pasta frontEnd
 cd frontEnd
