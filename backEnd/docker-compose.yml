@@ -3,7 +3,7 @@ version: '3.8'
 services:
   postgres:
     container_name: surgery-order-pg
-    image: bitnami/postgresql
+    image: postgres
     ports:
       - 5432:5432
     environment:
@@ -12,4 +12,4 @@ services:
       POSTGRES_DB: surgery-order
       PGDATA: /data/postgres
     volumes:
-      - ./data/pg:/data/postgres
+      - ./pgdata:/data/postgres
