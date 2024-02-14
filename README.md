@@ -7,6 +7,9 @@
 ```bash
 git clone https://github.com/AislanDias/Surgery-Orders.git
 
+# Entrar na pasta do repositorio
+cd Surgery-Orders/
+
 # Entrar na pasta backEnd
 cd backEnd
 
