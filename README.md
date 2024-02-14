@@ -90,4 +90,7 @@ npm run test:e2e
 
 ![Alt text](<assets/Modelo Conceitual Banco de Dados.png>)
 
+## Estrutura Conceitual das Controllers no BackEnd
+
+![Alt text](assets/Controller.png)
 
