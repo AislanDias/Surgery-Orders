@@ -7,7 +7,6 @@ import { SurgeryOrderController } from './controllers/surgery-order.controller'
 import { RoomsController } from './controllers/room.controller'
 import { ProceduresController } from './controllers/procedures.controller'
 import { HospitalController } from './controllers/hospital.controller'
-import { TestController } from './controllers/test.controller'
 
 @Module({
   imports: [
@@ -20,8 +19,7 @@ import { TestController } from './controllers/test.controller'
     SurgeryOrderController,
     RoomsController,
     ProceduresController,
-    HospitalController,
-    TestController,
+    HospitalController
   ],
   providers: [PrismaService],
 })
