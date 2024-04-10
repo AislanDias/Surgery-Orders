@@ -1,6 +1,8 @@
  
 # Code Challenge: Pedido cirúrgico
-### Autor do projeto: Aislan Dias
+https://www.youtube.com/watch?v=DVlMhBwOKhg [ Demonstração começa a partir do minuto 4 ]
+https://www.youtube.com/watch?v=_3yc-RLfSWY  [ Teste de responsividade ]
+https://www.youtube.com/watch?v=vEH0aJ8Gq9k   [ Testes Unitários, Integração e E2E ])
 
 ## Como iniciar este projeto
 
